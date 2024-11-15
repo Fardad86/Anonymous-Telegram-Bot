@@ -9,7 +9,7 @@ namespace HarfeToBeBot_v2._0.Controller {
     static class BotConfigs {
 
         // Bot Detail
-        public const string BOT_TOKEN = "";
+        public const string BOT_TOKEN = "7727990235:AAGarkAPneLkSMhWSq9wfL7SCcMuyl2S_wE";
         public const string BOT_NAME = "HarfeToBeBot?start=";
         public const string BOT_INSTAGRAM_LINK = "https://t.me/" + BOT_NAME;
         public const string BOT_TELEGRAM_LINK = "https://telegram.me/" + BOT_NAME;
